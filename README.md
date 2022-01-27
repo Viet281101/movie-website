@@ -1,1 +1,3 @@
-# For learn and pratice by myself
+# A small movie website
+
+To pratice and learning Html - CS - Javascript
